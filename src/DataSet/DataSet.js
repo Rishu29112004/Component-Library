@@ -1,0 +1,60 @@
+export const students = [
+  { id: 1, name: "Aarav Sharma", age: 20, place: "Delhi", country: "India", gender: "Male" },
+  { id: 2, name: "Riya Kapoor", age: 22, place: "Mumbai", country: "India", gender: "Female" },
+  { id: 3, name: "Ishan Verma", age: 21, place: "Bangalore", country: "India", gender: "Male" },
+  { id: 4, name: "Sara Ansari", age: 23, place: "Hyderabad", country: "India", gender: "Female" },
+  { id: 5, name: "Kabir Singh", age: 24, place: "Chennai", country: "India", gender: "Male" },
+  { id: 6, name: "Zoya Khan", age: 20, place: "Pune", country: "India", gender: "Female" },
+  { id: 7, name: "Arjun Yadav", age: 22, place: "Kolkata", country: "India", gender: "Male" },
+  { id: 8, name: "Meera Patel", age: 21, place: "Ahmedabad", country: "India", gender: "Female" },
+  { id: 9, name: "Yash Nair", age: 23, place: "Kochi", country: "India", gender: "Male" },
+  { id: 10, name: "Ananya Joshi", age: 20, place: "Nagpur", country: "India", gender: "Female" },
+
+  { id: 11, name: "Chris Brown", age: 24, place: "New York", country: "USA", gender: "Male" },
+  { id: 12, name: "Emma Wilson", age: 22, place: "Los Angeles", country: "USA", gender: "Female" },
+  { id: 13, name: "James Miller", age: 23, place: "Chicago", country: "USA", gender: "Male" },
+  { id: 14, name: "Sophia Davis", age: 21, place: "Houston", country: "USA", gender: "Female" },
+  { id: 15, name: "Daniel Moore", age: 24, place: "Phoenix", country: "USA", gender: "Male" },
+
+  { id: 16, name: "Liam Thompson", age: 22, place: "Toronto", country: "Canada", gender: "Male" },
+  { id: 17, name: "Olivia White", age: 21, place: "Vancouver", country: "Canada", gender: "Female" },
+  { id: 18, name: "Noah Martin", age: 23, place: "Calgary", country: "Canada", gender: "Male" },
+  { id: 19, name: "Ava Taylor", age: 20, place: "Montreal", country: "Canada", gender: "Female" },
+  { id: 20, name: "Benjamin Lee", age: 24, place: "Ottawa", country: "Canada", gender: "Male" },
+
+  { id: 21, name: "Hiroshi Tanaka", age: 22, place: "Tokyo", country: "Japan", gender: "Male" },
+  { id: 22, name: "Yumi Sato", age: 21, place: "Osaka", country: "Japan", gender: "Female" },
+  { id: 23, name: "Ren Kobayashi", age: 23, place: "Kyoto", country: "Japan", gender: "Male" },
+  { id: 24, name: "Aiko Fujii", age: 20, place: "Nagoya", country: "Japan", gender: "Female" },
+  { id: 25, name: "Daichi Morita", age: 24, place: "Sapporo", country: "Japan", gender: "Male" },
+
+  { id: 26, name: "Carlos Martinez", age: 22, place: "Madrid", country: "Spain", gender: "Male" },
+  { id: 27, name: "Isabella Garcia", age: 21, place: "Barcelona", country: "Spain", gender: "Female" },
+  { id: 28, name: "Diego Lopez", age: 23, place: "Valencia", country: "Spain", gender: "Male" },
+  { id: 29, name: "Sofia Perez", age: 20, place: "Seville", country: "Spain", gender: "Female" },
+  { id: 30, name: "Luis Hernandez", age: 24, place: "Bilbao", country: "Spain", gender: "Male" },
+
+  { id: 31, name: "Oliver Wright", age: 22, place: "London", country: "UK", gender: "Male" },
+  { id: 32, name: "Emily Clark", age: 21, place: "Manchester", country: "UK", gender: "Female" },
+  { id: 33, name: "Harry Lewis", age: 23, place: "Birmingham", country: "UK", gender: "Male" },
+  { id: 34, name: "Chloe Walker", age: 20, place: "Liverpool", country: "UK", gender: "Female" },
+  { id: 35, name: "George Hall", age: 24, place: "Leeds", country: "UK", gender: "Male" },
+
+  { id: 36, name: "Lucas Müller", age: 22, place: "Berlin", country: "Germany", gender: "Male" },
+  { id: 37, name: "Mia Fischer", age: 21, place: "Munich", country: "Germany", gender: "Female" },
+  { id: 38, name: "Leon Schmidt", age: 23, place: "Hamburg", country: "Germany", gender: "Male" },
+  { id: 39, name: "Lina Weber", age: 20, place: "Frankfurt", country: "Germany", gender: "Female" },
+  { id: 40, name: "Elias Becker", age: 24, place: "Cologne", country: "Germany", gender: "Male" },
+
+  { id: 41, name: "Ahmed Hassan", age: 22, place: "Cairo", country: "Egypt", gender: "Male" },
+  { id: 42, name: "Layla Adel", age: 21, place: "Alexandria", country: "Egypt", gender: "Female" },
+  { id: 43, name: "Omar Zain", age: 23, place: "Giza", country: "Egypt", gender: "Male" },
+  { id: 44, name: "Mariam Ali", age: 20, place: "Luxor", country: "Egypt", gender: "Female" },
+  { id: 45, name: "Youssef Nader", age: 24, place: "Aswan", country: "Egypt", gender: "Male" },
+
+  { id: 46, name: "Kim Min-Jun", age: 22, place: "Seoul", country: "South Korea", gender: "Male" },
+  { id: 47, name: "Park Ji-Won", age: 21, place: "Busan", country: "South Korea", gender: "Female" },
+  { id: 48, name: "Choi Woo-Sik", age: 23, place: "Incheon", country: "South Korea", gender: "Male" },
+  { id: 49, name: "Han So-Yeon", age: 20, place: "Daegu", country: "South Korea", gender: "Female" },
+  { id: 50, name: "Lee Sung-Ho", age: 24, place: "Gwangju", country: "South Korea", gender: "Male" }
+];

@@ -4,6 +4,7 @@ import InputField from './assets/UIComponents/Input-field/InputField'
 import { Toaster } from 'react-hot-toast'
 import SearchBar from './assets/UIComponents/SearchBar/SearchBar'
 import PopupModal from './assets/UIComponents/PopupModal.jsx/PopupModal'
+import Dropdown from './assets/UIComponents/Dropdown/Dropdown'
 
 
 function App() {
@@ -14,7 +15,8 @@ function App() {
        {/* <TheamChange/> */}
        {/* <InputField/> */}
        {/* <SearchBar/> */}
-       <PopupModal/>
+       {/* <PopupModal/> */}
+       <Dropdown/>
        <Toaster 
        position='top-center'
        reverseOrder={false}

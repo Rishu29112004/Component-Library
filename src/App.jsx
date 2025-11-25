@@ -7,6 +7,7 @@ import PopupModal from './assets/UIComponents/PopupModal.jsx/PopupModal'
 import Dropdown from './assets/UIComponents/Dropdown/Dropdown'
 import First from './assets/UIComponents/Example/Firsts'
 import TabsComponent from './assets/UIComponents/TabsComponent/TabsComponent'
+import Accordian from './assets/UIComponents/Accordian/Accordian'
 
 
 function App() {
@@ -20,7 +21,8 @@ function App() {
        {/* <PopupModal/> */}
        {/* <Dropdown/> */}
        {/* <First/> */}
-       <TabsComponent/>
+       {/* <TabsComponent/> */}
+       <Accordian/>
        <Toaster 
        position='top-center'
        reverseOrder={false}

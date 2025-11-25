@@ -5,6 +5,8 @@ import { Toaster } from 'react-hot-toast'
 import SearchBar from './assets/UIComponents/SearchBar/SearchBar'
 import PopupModal from './assets/UIComponents/PopupModal.jsx/PopupModal'
 import Dropdown from './assets/UIComponents/Dropdown/Dropdown'
+import First from './assets/UIComponents/Example/Firsts'
+import TabsComponent from './assets/UIComponents/TabsComponent/TabsComponent'
 
 
 function App() {
@@ -16,7 +18,9 @@ function App() {
        {/* <InputField/> */}
        {/* <SearchBar/> */}
        {/* <PopupModal/> */}
-       <Dropdown/>
+       {/* <Dropdown/> */}
+       {/* <First/> */}
+       <TabsComponent/>
        <Toaster 
        position='top-center'
        reverseOrder={false}

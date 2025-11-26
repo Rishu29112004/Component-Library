@@ -8,6 +8,7 @@ import Dropdown from './assets/UIComponents/Dropdown/Dropdown'
 import First from './assets/UIComponents/Example/Firsts'
 import TabsComponent from './assets/UIComponents/TabsComponent/TabsComponent'
 import Accordian from './assets/UIComponents/Accordian/Accordian'
+import Main from './assets/UIComponents/ProfileModal/Main'
 
 
 function App() {
@@ -22,7 +23,8 @@ function App() {
        {/* <Dropdown/> */}
        {/* <First/> */}
        {/* <TabsComponent/> */}
-       <Accordian/>
+       {/* <Accordian/> */}
+       <Main/>
        <Toaster 
        position='top-center'
        reverseOrder={false}

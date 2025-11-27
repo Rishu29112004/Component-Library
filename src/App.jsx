@@ -8,7 +8,7 @@ import Dropdown from './assets/UIComponents/Dropdown/Dropdown'
 import First from './assets/UIComponents/Example/Firsts'
 import TabsComponent from './assets/UIComponents/TabsComponent/TabsComponent'
 import Accordian from './assets/UIComponents/Accordian/Accordian'
-import Main from './assets/UIComponents/ProfileModal/Main'
+gitimport Main from './assets/UIComponents/ProfileModal/Main'
 
 
 function App() {

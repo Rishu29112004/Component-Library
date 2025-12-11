@@ -9,6 +9,7 @@ import First from './assets/UIComponents/Example/Firsts'
 import TabsComponent from './assets/UIComponents/TabsComponent/TabsComponent'
 import Accordian from './assets/UIComponents/Accordian/Accordian'
 import LoginPage from './assets/UIComponents/NextComponents/LoginPage'
+import Card from './assets/UIComponents/NextComponents/Card'
 // gitimport Main from './assets/UIComponents/ProfileModal/Main'
 
 
@@ -30,7 +31,8 @@ function App() {
        position='top-center'
        reverseOrder={false}
        /> */}
-      <LoginPage />
+      {/* <LoginPage /> */}
+      <Card/>
     </div>
   )
 }

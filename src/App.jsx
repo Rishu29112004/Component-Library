@@ -10,6 +10,7 @@ import TabsComponent from './assets/UIComponents/TabsComponent/TabsComponent'
 import Accordian from './assets/UIComponents/Accordian/Accordian'
 import LoginPage from './assets/UIComponents/NextComponents/LoginPage'
 import Card from './assets/UIComponents/NextComponents/Card'
+import PriceFilter from './assets/UIComponents/NextComponents/PriceFilter'
 // gitimport Main from './assets/UIComponents/ProfileModal/Main'
 
 
@@ -32,7 +33,8 @@ function App() {
        reverseOrder={false}
        /> */}
       {/* <LoginPage /> */}
-      <Card/>
+      {/* <Card/> */}
+      <PriceFilter/>
     </div>
   )
 }

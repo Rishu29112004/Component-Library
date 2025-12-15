@@ -11,6 +11,7 @@ import Accordian from './assets/UIComponents/Accordian/Accordian'
 import LoginPage from './assets/UIComponents/NextComponents/LoginPage'
 import Card from './assets/UIComponents/NextComponents/Card'
 import PriceFilter from './assets/UIComponents/NextComponents/PriceFilter'
+import MainTab from './assets/UIComponents/NextComponents/TabChange/MainTab'
 // gitimport Main from './assets/UIComponents/ProfileModal/Main'
 
 
@@ -34,7 +35,8 @@ function App() {
        /> */}
       {/* <LoginPage /> */}
       {/* <Card/> */}
-      <PriceFilter/>
+      {/* <PriceFilter/> */}
+      <MainTab/>
     </div>
   )
 }

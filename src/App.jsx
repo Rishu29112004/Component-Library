@@ -12,6 +12,8 @@ import LoginPage from './assets/UIComponents/NextComponents/LoginPage'
 import Card from './assets/UIComponents/NextComponents/Card'
 import PriceFilter from './assets/UIComponents/NextComponents/PriceFilter'
 import MainTab from './assets/UIComponents/NextComponents/TabChange/MainTab'
+import UiPractice from './assets/UIComponents/Practice/UiPractice'
+import ApiCalling from './assets/UIComponents/ApiCalling/ApiCalling'
 // gitimport Main from './assets/UIComponents/ProfileModal/Main'
 
 
@@ -36,7 +38,9 @@ function App() {
       {/* <LoginPage /> */}
       {/* <Card/> */}
       {/* <PriceFilter/> */}
-      <MainTab/>
+      {/* <MainTab/> */}
+      {/* <UiPractice/> */}
+      <ApiCalling/>
     </div>
   )
 }
